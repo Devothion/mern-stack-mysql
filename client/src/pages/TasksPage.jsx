@@ -16,7 +16,7 @@ function TasksPage() {
 
   return (
     <div>
-      <h1 className="text-5xl text-white font-bold text-center mb-10">Tasks</h1>
+      <h1 className="text-5xl text-white font-bold text-center mb-10">TAREAS</h1>
       <div className="grid grid-cols-3 gap-2">{renderMain()}</div>
     </div>
   );
